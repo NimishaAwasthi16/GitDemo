@@ -9,6 +9,9 @@ public class AppiumTest {
 	public void AndroidApp()
 	{
 		System.out.println("Androidapp");
+		
+		System.out.println("Changes done for GIT");
+		System.out.println("Changes done for GIT");
 	}
 	
 	@Test
