@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54" started-at="2019-04-16T17:07:19Z" finished-at="2019-04-16T17:07:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54" started-at="2019-04-16T17:07:19Z" finished-at="2019-04-16T17:07:19Z">
+      <class name="Qaclick.com.RestConceptTest">
+        <test-method status="PASS" signature="restposting()[pri:0, instance:Qaclick.com.RestConceptTest@f6c48ac]" name="restposting" duration-ms="2" started-at="2019-04-16T17:07:19Z" finished-at="2019-04-16T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restposting -->
+        <test-method status="PASS" signature="tweet()[pri:0, instance:Qaclick.com.RestConceptTest@f6c48ac]" name="tweet" duration-ms="1" started-at="2019-04-16T17:07:19Z" finished-at="2019-04-16T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweet -->
+      </class> <!-- Qaclick.com.RestConceptTest -->
+      <class name="Qaclick.com.AppiumTest">
+        <test-method status="PASS" signature="AndroidApp()[pri:0, instance:Qaclick.com.AppiumTest@6eebc39e]" name="AndroidApp" duration-ms="10" started-at="2019-04-16T17:07:19Z" finished-at="2019-04-16T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidApp -->
+        <test-method status="PASS" signature="IOSAPP()[pri:0, instance:Qaclick.com.AppiumTest@6eebc39e]" name="IOSAPP" duration-ms="1" started-at="2019-04-16T17:07:19Z" finished-at="2019-04-16T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSAPP -->
+      </class> <!-- Qaclick.com.AppiumTest -->
+      <class name="Qaclick.com.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Qaclick.com.SeleniumTest@464bee09]" name="BrowserAutomation" duration-ms="1" started-at="2019-04-16T17:07:19Z" finished-at="2019-04-16T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:Qaclick.com.SeleniumTest@464bee09]" name="ElementsUI" duration-ms="1" started-at="2019-04-16T17:07:19Z" finished-at="2019-04-16T17:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- Qaclick.com.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
