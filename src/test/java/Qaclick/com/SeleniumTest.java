@@ -17,6 +17,26 @@ public class SeleniumTest {
 	public void ElementsUI()
 	{
 		System.out.println("Elements is Visible in UI");	
+		
+		System.out.println("We got URL");
+		System.out.println("We got URL");
+		System.out.println("We got URL");
+		System.out.println("We got URL");
+		System.out.println("We got URL");
+	
+	}
+
+	
+	public void GITXYZ()
+	{
+		System.out.println("Elements is Visible in UI");	
+		
+		System.out.println("We got URL");
+		System.out.println("We got URL");
+		System.out.println("We got URL");
+		System.out.println("We got URL");
+		System.out.println("We got URL");
+	
 	}
 	
 
