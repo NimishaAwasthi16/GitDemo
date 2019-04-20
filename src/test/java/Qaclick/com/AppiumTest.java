@@ -10,13 +10,13 @@ public class AppiumTest {
 	{
 		System.out.println("Androidapp");
 		
-		System.out.println("Changes done for GIT");
-		System.out.println("Changes done for GIT");
+		
 	}
 	
 	@Test
 	public void IOSAPP()
 	{
 		System.out.println("IOSAPP");
+		System.out.println("Changes done for GIT");
 	}
 }
